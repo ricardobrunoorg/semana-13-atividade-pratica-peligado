@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mini Ecommerce</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="logo">
+        <span class="logo-icon">🛒</span>
+        <span class="logo-text">Mini<strong>Shop</strong></span>
+      </div>
+      <nav class="header-nav">
+        <span class="nav-tag">Todos os produtos</span>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <p class="hero-eyebrow">Bem-vindo à loja</p>
+      <h1 class="hero-title">Os melhores produtos<br><em>tech</em> em um só lugar.</h1>
+      <p class="hero-sub">Celulares, notebooks, acessórios e games com os melhores preços.</p>
+    </section>
+
+    <div class="controles">
+      <div class="search-wrap">
+        <span class="search-icon">🔍</span>
+        <input id="search" type="text" placeholder="Buscar produto...">
+      </div>
+      <select id="category">
+        <option value="">Todas as categorias</option>
+      </select>
+      <button id="btnRender">Resetar</button>
+    </div>
+
+    <div id="product-list"></div>
+  </main>
+
+  <footer class="site-footer">
+    <p>© 2025 MiniShop — Projeto acadêmico de front-end</p>
+  </footer>
+
+  <script src=""></script>
+</body>
+</html>
