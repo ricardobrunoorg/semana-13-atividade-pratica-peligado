@@ -7,10 +7,10 @@ Para esse projeto, além de mudarmos o JSON para o JSON Server, vamos permitir o
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+-Pedro marcos costa 
+- 924394
+- Um site de vendas de produtos eletonicos
+- e um projeto com yma grande elaboração que tem um grande carinho envolvido e para avenda e o controle de qualidade de um produtos eletrico.
 
 **Registros do trabalho**
 
